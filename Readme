@@ -1,0 +1,6 @@
+This project conatains the source files including accepted paper.
+
+1. Open the project in python anaconda 3.6.3
+2. Start main.py
+It will display the result of multiple classifiers
+in 10 fold cross-validation
